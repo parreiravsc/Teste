@@ -1,7 +1,7 @@
 {
 	"file": "https://raw.githubusercontent.com/parreiravsc/Teste/master/fruits",
 	"name": "Color is not fruit - GitHub",
-	"header": 1,
+	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
