@@ -5,9 +5,9 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "cor" },
+		{ "type": "id", "index": 0, "name": "cor" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 7 }
-	],
+	]
 }
