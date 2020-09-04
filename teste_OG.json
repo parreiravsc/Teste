@@ -1,13 +1,13 @@
 {
-    "file": "https://raw.githubusercontent.com/parreiravsc/Teste/master/teste_OG.csv",
-    "name": "Color is not fruit ",
-    "header": 0,
-    "separator": ";",
-    "skip": 0,
-    "meta":[
-	{ "type": "id", "index": 0, "name": "cor" },
-    ],
-    "sets": [
-	{"format": "binary", "start": 1, "end": 7 }
-    ]
+	"file": "https://github.com/parreiravsc/Teste/edit/master/teste_OG.csv",
+	"name": "Color is not fruit - GitHub",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "cor" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
 }
